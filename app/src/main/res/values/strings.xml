@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Absen Manual</string>
+    <string name="show">Show</string>
+    <string name="enter">Enter a message</string>
+    <string-array name="labels_array">
+        <item>Hadir tepat waktu</item>
+        <item>Terlambat</item>
+        <item>Ijin</item>
+        <item>Sakit</item>
+    </string-array>
+</resources>
